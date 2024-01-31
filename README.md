@@ -2,7 +2,7 @@
 Требуется описать сервис авторизации с разными типами входных данных.
 Данный сервис реализует поиск пользователей, проверку авторизационных данных, вызов методов создания и получения данных пользователя. 
 
-[Полный текст задания](https://docs.google.com/document/d/1AB2b8yiZ3sNgbkdMpDuEq2hr2H4xuQIRabNuO6oOlOY/) 
+[Полный текст задания](https://docs.google.com/document/d/1AB2b8yiZ3sNgbkdMpDuEq2hr2H4xuQIRabNuO6oOlOY/)   
 
 #### Выполнение:
 
@@ -39,7 +39,7 @@ erDiagram
 ```
 
 Сущность USER связана с AUTHDATA отношением "Has", что указывает, что пользователь может иметь несколько записей в AUTHDATA.
-AUTHDATA связана с AUTHORIZATIONMETHOD и OAUTHAUTHORIZATION отношениями "Uses", указывающими на использование этих методов авторизации.
+AUTHDATA связана с AUTHORIZATIONMETHOD и OAUTHAUTHORIZATION отношениями "Uses", указывающими на использование этих методов авторизации.  
 
 
 
