@@ -41,8 +41,6 @@ erDiagram
 Сущность USER связана с AUTHDATA отношением "Has", что указывает, что пользователь может иметь несколько записей в AUTHDATA.
 AUTHDATA связана с AUTHORIZATIONMETHOD и OAUTHAUTHORIZATION отношениями "Uses", указывающими на использование этих методов авторизации.  
 
-
-
 2. UML-диаграмма классов
 ```mermaid
 classDiagram
