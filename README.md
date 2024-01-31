@@ -153,4 +153,4 @@ sequenceDiagram
 ```
 <br />
 <br />
-В файле README.md использован язык описания диаграмм [Mermaid](https://mermaid.js.org/)
+В файле README.md использован язык описания диаграмм Mermaid.
